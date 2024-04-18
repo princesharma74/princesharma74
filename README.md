@@ -20,7 +20,7 @@ I am comfortable with web technologies, docker, aws and API development. I am ke
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=princesharma74&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🌏 Websites created by me
-- [https://giggle-nextjs-codebuddy.vercel.app/](https://giggle-nextjs-codebuddy.vercel.app/) Next.js, Typescript, shadcn/ui, Integrated with Django REST API
+- [https://giggle-nextjs-codebuddy.vercel.app/](https://giggle-nextjs-codebuddy.vercel.app/) Next.js, Typescript, shadcn/ui, Integrated with Django REST API, Ongoing...
 - [https://jubilant-octo-admin-side.vercel.app/](https://jubilant-octo-admin-side.vercel.app/) E-commerce (admin side) learning project in Next.js, Typescript, Prismadb, mysql
 - [https://jubilant-octo-client-side.vercel.app/](https://jubilant-octo-client-side.vercel.app/) E-commerce (client side), Learning project in Next.js, Typescript
 - [https://ec2-13-48-96-215.eu-north-1.compute.amazonaws.com/](https://ec2-13-48-96-215.eu-north-1.compute.amazonaws.com/) Django, Web Scraping, Selenium, HTML, CSS, Django REST Framework, Docker, Python
