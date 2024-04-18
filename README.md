@@ -16,9 +16,18 @@ I am comfortable with web technologies, docker, aws and API development. I am ke
 - A. Garg, **P. Sharma**, P. Prajapat, A. Saxena, P. Pandey, A. Tyagi, Y. Varshney, A. Sharma [**Some fun pedagogical techniques to teach optics to students of all ages**](https://doi.org/10.1117/12.2570964) *Proceedings Volume 11480, Optics Education and Outreach VI, 114800R (2020)*
 
 
-## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=princesharma74&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## 📊 Statistics
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=princesharma74&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## 🌏 Websites created by me
+- [https://giggle-nextjs-codebuddy.vercel.app/](https://giggle-nextjs-codebuddy.vercel.app/) Next.js, Typescript, shadcn/ui, Integrated with Django REST API
+- [https://jubilant-octo-admin-side.vercel.app/](https://jubilant-octo-admin-side.vercel.app/) E-commerce (admin side) learning project in Next.js, Typescript, Prismadb, mysql
+- [https://jubilant-octo-client-side.vercel.app/](https://jubilant-octo-client-side.vercel.app/) E-commerce (client side), Learning project in Next.js, Typescript
+- [https://ec2-13-48-96-215.eu-north-1.compute.amazonaws.com/](https://ec2-13-48-96-215.eu-north-1.compute.amazonaws.com/) Django, Web Scraping, Selenium, HTML, CSS, Django REST Framework, Docker, Python
+- [https://glowupaesthetic.co.in/](https://glowupaesthetic.co.in/) HTML, CSS, Tailwind CSS, SMTP Server
+- [https://fakirmohanfoundation.org/](https://fakirmohanfoundation.org/) HTML, CSS
+- [https://www.coderslive.tech/](https://www.coderslive.tech/) Nextjs, NextUI, React
+- [https://princesharma74.github.io/](https://princesharma74.github.io/) HTML, CSS
 
 ## 📚 Writing
 Besides developing, I am a Notion Campus Leader and Template Creater. I build Notion Templates as a side hustle and provide consultancy. Also worked as a freelancer in web technologies.  
